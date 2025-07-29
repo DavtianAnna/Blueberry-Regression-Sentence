@@ -4,7 +4,8 @@ This repository contains my solution for the [Blueberry Regression](https://www.
 The goal of this challenge is to accurately predict the **blueberry yield** (`yield`) based on environmental and agricultural data.  
 It is a **regression task**, where the target is a continuous variable.
 
-![uAWeWfDQVrFPdCgKmgZhX](https://github.com/user-attachments/assets/9e05d5b1-7182-4b01-ba54-7e287ccdf8ac)
+
+![uAWeWfDQVrFPdCgKmgZhX](https://github.com/user-attachments/assets/1452b282-4978-4a67-bc24-6eede040d9f2)
 
 
 ---
